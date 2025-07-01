@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GreenMoneyFree" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">#bbeb35</item>
+        <item name="android:colorPrimaryDark">#bbeb35</item>
+        <!-- Убрать эту строку -->
+        <!-- <item name="android:windowTranslucentStatus">true</item> -->
+        <item name="android:windowBackground">@color/purple_500</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+</resources>
